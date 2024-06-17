@@ -4,7 +4,7 @@
 ### 2. Environment Preparation
 Please first clone the repo and install the required environment, which can be done by running the following commands:
 ```
-conda env create -n gemgen python=3.9.0
+conda create -n gemgen python=3.9.0
 
 conda activate gemgen
 
