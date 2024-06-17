@@ -15,7 +15,9 @@ pip install -r requirements.txt
 ```
 
 ### 3. Running GEMGen Model
+```
 python test.py
+```
 
 ### 4. Notes
 **Do not use other MusicGen and CLIP code（e.g. official code）directly. Because we have made major changes and additions to the code in audiocraft/CLIP/clip/model.py, audiocraft/audiocraft/modules/conditioners.py and so on.**
