@@ -8,7 +8,7 @@ conda create -n gemgen python=3.9.0
 
 conda activate gemgen
 
-git clone git@github.com:ba-tmp/GEMGen.git
+git clone https://github.com/ba-tmp/GEMGen.git
 cd GEMGen
 
 pip install -r requirements.txt
