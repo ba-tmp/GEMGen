@@ -1,5 +1,5 @@
 ### 1. Example Demos
-./more_examples: 32 test videos
+./examples_of_results: 32 test videos
 
 ### 2. Environment Preparation
 Please first clone the repo and install the required environment, which can be done by running the following commands:
